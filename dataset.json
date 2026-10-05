@@ -1,0 +1,11 @@
+[
+  {
+    "task": "Escribe una funci\u00f3n Python que reciba un ARN de AWS y extraiga el tipo de servicio (por ejemplo, 's3', 'ec2', 'lambda'). La funci\u00f3n debe retornar el nombre del servicio o None si el ARN es inv\u00e1lido."
+  },
+  {
+    "task": "Crea un objeto JSON que represente una pol\u00edtica de IAM que permita a un usuario listar todos los buckets de S3 y leer objetos \u00fanicamente del bucket 'company-logs-2024'."
+  },
+  {
+    "task": "Escribe una expresi\u00f3n regular que valide nombres de buckets de S3 seg\u00fan las reglas de AWS: deben tener entre 3 y 63 caracteres, contener solo min\u00fasculas, n\u00fameros, puntos y guiones, y no pueden comenzar ni terminar con punto o gui\u00f3n."
+  }
+]
