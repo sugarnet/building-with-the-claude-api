@@ -1,0 +1,64 @@
+[
+  {
+    "output": "# Plan Nutricional para Preparaci\u00f3n de Marat\u00f3n\n\n## \ud83d\udcca An\u00e1lisis Inicial\n- **IMC**: 21.5 kg/m\u00b2 (peso saludable)\n- **Objetivo**: Optimizar resistencia y rendimiento aer\u00f3bico\n- **Enfoque**: Nutrici\u00f3n de alto rendimiento\n\n## \ud83e\udd57 Distribuci\u00f3n Macronutrientes Recomendada\n\n| Macronutriente | Porcentaje | Gramos/d\u00eda* |\n|---|---|---|\n| **Carbohidratos** | 55-60% | 275-300g |\n| **Prote\u00ednas** | 15-20% | 75-90g |\n| **Grasas** | 20-25% | 50-60g |\n\n*Basado en ~2000-2200 kcal diarias (ajustar seg\u00fan entrenamiento)\n\n## \ud83c\udf7d\ufe0f Alimentos Prioritarios\n\n### **Carbohidratos (Energ\u00eda)**\n- Arroz, pasta, avena, batata\n- Pan integral, quinua\n- Frutas: pl\u00e1tano, naranjas, d\u00e1tiles\n- Legumbres: lentejas, garbanzos\n\n### **Prote\u00ednas (Recuperaci\u00f3n)**\n- Pollo, pavo, pescado blanco\n- Huevos, yogur griego\n- At\u00fan, salm\u00f3n (\u00e1cidos grasos omega-3)\n- Legumbres combinadas\n\n### **Grasas Saludables**\n- Aceite de oliva, aguacate\n- Frutos secos: almendras, nueces\n- Semillas: ch\u00eda, lino\n- Pescados grasos\n\n## \u23f0 Estructura de Comidas\n\n**Desayuno**: Avena + pl\u00e1tano + prote\u00edna\n**Almuerzo**: Arroz/pasta + prote\u00edna magra + verduras\n**Merienda**: Fruta + prote\u00edna (yogur, frutos secos)\n**Cena**: Prote\u00edna + carbohidratos moderados + verduras\n\n## \ud83d\udca7 Hidrataci\u00f3n\n- 2.5-3L agua diaria\n- Durante entrenamientos largos: bebidas isot\u00f3nicas\n\n\u00bfNecesitas un plan m\u00e1s espec\u00edfico o tienes dudas sobre alg\u00fan grupo de alimentos?",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "68 kg",
+        "goal": "Preparaci\u00f3n para marat\u00f3n con \u00e9nfasis en resistencia y rendimiento",
+        "restrictions": "Sin restricciones diet\u00e9ticas"
+      },
+      "solution_criteria": [
+        "El plan incluye distribuci\u00f3n de carbohidratos complejos como base principal de la alimentaci\u00f3n diaria",
+        "Especifica timing de nutrientes con recomendaciones claras para comidas/snacks pre y post-entrenamiento",
+        "Proporciona estimaci\u00f3n de calor\u00edas diarias acorde al perfil del atleta de resistencia",
+        "Formato conciso y f\u00e1cil de implementar en la pr\u00e1ctica diaria"
+      ],
+      "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+      "scenario": "Prueba con un atleta de resistencia (corredor de marat\u00f3n) que requiere alto consumo cal\u00f3rico y \u00e9nfasis en carbohidratos complejos, verificando que el plan incluya timing de nutrientes pre y post-entrenamiento"
+    },
+    "score": 3,
+    "reasoning": "La soluci\u00f3n cumple parcialmente con los requisitos obligatorios pero presenta violaciones significativas. Aunque incluye desglose de macronutrientes y un rango cal\u00f3rico, FALLA en proporcionar: (1) un total cal\u00f3rico diario espec\u00edfico y definitivo, (2) horarios exactos para las comidas, y (3) porciones exactas en gramos. Adem\u00e1s, incumple un criterio secundario cr\u00edtico al no especificar timing de nutrientes pre y post-entrenamiento, que es fundamental para un plan de marat\u00f3n. La soluci\u00f3n es gen\u00e9rica y no suficientemente detallada para implementaci\u00f3n pr\u00e1ctica real."
+  },
+  {
+    "output": "# Plan Nutricional para Ganancia de Masa Muscular (Vegetariano)\n\n## **Requerimientos Cal\u00f3ricos**\nCon tu peso actual, necesitas aproximadamente **2,800-3,200 kcal diarias** (seg\u00fan nivel de actividad). Come en super\u00e1vit moderado de 300-500 kcal.\n\n---\n\n## **Distribuci\u00f3n de Macronutrientes**\n\n| Macronutriente | Cantidad Diaria |\n|---|---|\n| **Prote\u00edna** | 1.6-2.2g por kg = **130-180g** |\n| **Carbohidratos** | 4-6g por kg = **330-490g** |\n| **Grasas** | 0.8-1.2g por kg = **65-98g** |\n\n---\n\n## **Fuentes de Prote\u00edna Vegetal** \ud83e\udd5c\n\n### Legumbres\n- Lentejas, garbanzos, frijoles (15-20g prote\u00edna/100g cocidos)\n- Tofu y tempeh (15-19g prote\u00edna/100g)\n- Edamame (11g prote\u00edna/100g)\n\n### L\u00e1cteos y Huevo (si los consumes)\n- Huevos (6g prote\u00edna c/u)\n- Yogur griego (10g prote\u00edna/100g)\n- Queso cottage (11g prote\u00edna/100g)\n- Leche entera (3.2g prote\u00edna/100ml)\n\n### Prote\u00edna en Polvo\n- Whey protein (si consumes lacteos)\n- Plant-based: guisante, soja, arroz+guisante\n\n### Frutos Secos y Semillas\n- Cacahuetes, almendras (5-6g prote\u00edna/30g)\n- Semillas de ch\u00eda, lino, s\u00e9samo\n\n---\n\n## **Men\u00fa Diario Ejemplo (2,950 kcal / 155g prote\u00edna)**\n\n### Desayuno\n- Avena (50g) con leche entera (250ml)\n- Huevos (2 unidades)\n- Pl\u00e1tano + miel\n\n### Almuerzo\n- Lentejas (150g cocidas)\n- Arroz integral (80g)\n- Espinacas, aceite de oliva\n\n### Merienda\n- Yogur griego (200g) + granola + frutos secos\n\n### Pre-entreno\n- Pan integral + crema de cacahuete\n\n### Post-entreno\n- Batido: prote\u00edna en polvo, pl\u00e1tano, leche, mantequilla de almendra\n\n### Cena\n- Tofu (200g) o garbanzos (150g)\n- Quinoa (80g)\n- Br\u00f3coli, zanahoria\n\n---\n\n## **Consejos Importantes** \u26a1\n\n\u2705 **Variedad de prote\u00ednas** - No dependas solo de una fuente\n\u2705 **Combina amino\u00e1cidos** - Legumbres + cereales (arroz+lentejas)\n\u2705 **Suplementos \u00fatiles** - Creatina monohidrato, vitamina B12, omega-3 vegano\n\u2705 **Entrena con peso** - La nutrici\u00f3n sin entrenamiento no sirve\n\u2705 **Duerme 7-9 horas** - Cr\u00edtico para ganancia muscular\n\n\u00bfNecesitas ajustes seg\u00fan tu actividad f\u00edsica espec\u00edfica?",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "82 kg",
+        "goal": "Ganancia de masa muscular y fuerza",
+        "restrictions": "Vegetariano (sin carne, pollo ni pescado)"
+      },
+      "solution_criteria": [
+        "El plan incluye fuentes proteicas vegetarianas variadas (legumbres, tofu, tempeh, seitan, frutos secos, l\u00e1cteos y huevos seg\u00fan aplique)",
+        "Proporciona un balance macronutricional adecuado para ganancia muscular (prote\u00edna suficiente para levantador de pesas, carbohidratos y grasas saludables)",
+        "El plan es conciso y compacto, presentado de forma clara y f\u00e1cil de implementar"
+      ],
+      "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+      "scenario": "Prueba con un atleta de fuerza (levantador de pesas) con restricciones diet\u00e9ticas (vegetariano) para evaluar si el plan propone fuentes proteicas alternativas adecuadas y balanceo macronutricional sin productos animales"
+    },
+    "score": 4,
+    "reasoning": "La soluci\u00f3n cumple parcialmente con los requisitos obligatorios. Aunque incluye total cal\u00f3rico diario (2,800-3,200 kcal) y desglose de macronutrientes, FALLA en dos aspectos cr\u00edticos: (1) no proporciona horarios exactos para las comidas, solo categor\u00edas gen\u00e9ricas, y (2) las porciones en el men\u00fa ejemplo no est\u00e1n completamente especificadas en gramos/ml para todos los alimentos. Los criterios secundarios se cumplen bien (variedad proteica, balance macronutricional, presentaci\u00f3n clara y compacta), pero las violaciones de requisitos obligatorios son determinantes."
+  },
+  {
+    "output": "# Plan Nutricional para Mejor Rendimiento en F\u00fatbol\n\n## \ud83d\udcca Resumen de Necesidades\n- **IMC**: 22.7 (peso saludable)\n- **Calor\u00edas diarias**: ~2,500-2,800 kcal (seg\u00fan intensidad)\n- **Enfoque**: Energ\u00eda, recuperaci\u00f3n muscular y resistencia\n\n## \ud83c\udf7d\ufe0f Distribuci\u00f3n Macronutrientes\n\n| Nutriente | % | Gramos |\n|-----------|---|--------|\n| Prote\u00edna | 20% | 125-140g |\n| Carbohidratos | 55% | 340-385g |\n| Grasas | 25% | 70-78g |\n\n## \ud83d\udcaa Alimentos Clave (Presupuesto Amigable)\n\n### Prote\u00ednas Econ\u00f3micas\n- Huevos (vers\u00e1tiles y baratos)\n- Pollo (muslo, m\u00e1s econ\u00f3mico que pechuga)\n- At\u00fan en lata\n- Legumbres (lentejas, garbanzos)\n- Leche y yogur\n\n### Carbohidratos\n- Arroz, pasta y pan integral\n- Avena\n- Papas y batatas\n- Pl\u00e1tanos\n\n### Grasas Saludables\n- Aceite de oliva (peque\u00f1as cantidades)\n- Frutos secos (pu\u00f1ado diario)\n- Aguacate (cuando haya oferta)\n\n## \ud83d\udccb Ejemplo de D\u00eda T\u00edpico\n\n**Desayuno**: Huevos + pan + pl\u00e1tano\n**Almuerzo**: Pollo + arroz + legumbres\n**Snack**: Yogur + avena o fruta\n**Cena**: At\u00fan/legumbres + pasta + verduras\n**Pre-entreno** (30-60 min antes): Pl\u00e1tano o pan\n\n## \u26a1 Tips Pr\u00e1cticos\n\u2705 Cocina en lotes el fin de semana\n\u2705 Prioriza prote\u00edna en cada comida\n\u2705 Hidrataci\u00f3n: 2-3L agua diaria\n\u2705 Come 2-3h antes de entrenar\n\n\u00bfNecesitas un plan semanal espec\u00edfico?",
+    "test_case": {
+      "prompt_inputs": {
+        "height": "178 cm",
+        "weight": "72 kg",
+        "goal": "Mejorar rendimiento y resistencia en entrenamientos de f\u00fatbol",
+        "restrictions": "Presupuesto limitado, sin alergias alimentarias"
+      },
+      "solution_criteria": [
+        "El plan incluye alimentos comunes y asequibles disponibles en mercados locales",
+        "Proporciona distribuci\u00f3n de macronutrientes apropiada para un futbolista",
+        "Es conciso y pr\u00e1ctico, presentado en formato compacto f\u00e1cil de seguir",
+        "Considera el presupuesto limitado sin comprometer necesidades nutricionales b\u00e1sicas"
+      ],
+      "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+      "scenario": "Prueba con un atleta joven de deporte de equipo (futbolista) con presupuesto limitado, comprobando que el plan sea pr\u00e1ctico, asequible y utilice alimentos comunes accesibles en el mercado local"
+    },
+    "score": 3,
+    "reasoning": "La soluci\u00f3n cumple parcialmente con los requisitos obligatorios. Aunque incluye total cal\u00f3rico y desglose de macronutrientes, INCUMPLE significativamente el requisito de 'comidas con alimentos, porciones y horarios exactos'. El ejemplo de d\u00eda t\u00edpico carece de porciones espec\u00edficas (gramos/unidades) y horarios concretos, siendo demasiado gen\u00e9rico. Esto constituye una violaci\u00f3n clara de un requisito obligatorio, lo que seg\u00fan las pautas debe resultar en puntuaci\u00f3n de 3 o menos. Sin embargo, la soluci\u00f3n demuestra comprensi\u00f3n del contexto (presupuesto, deporte) y estructura adecuada, por lo que se asigna puntuaci\u00f3n baja pero no m\u00ednima."
+  }
+]

@@ -1,14 +1,49 @@
 [
   {
-    "task": "Escribe una funci\u00f3n Python que tome una lista de ARNs de S3 y extraiga \u00fanicamente los nombres de los buckets",
-    "format": "python"
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "68 kg",
+      "goal": "Preparaci\u00f3n para marat\u00f3n con \u00e9nfasis en resistencia y rendimiento",
+      "restrictions": "Sin restricciones diet\u00e9ticas"
+    },
+    "solution_criteria": [
+      "El plan incluye distribuci\u00f3n de carbohidratos complejos como base principal de la alimentaci\u00f3n diaria",
+      "Especifica timing de nutrientes con recomendaciones claras para comidas/snacks pre y post-entrenamiento",
+      "Proporciona estimaci\u00f3n de calor\u00edas diarias acorde al perfil del atleta de resistencia",
+      "Formato conciso y f\u00e1cil de implementar en la pr\u00e1ctica diaria"
+    ],
+    "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+    "scenario": "Prueba con un atleta de resistencia (corredor de marat\u00f3n) que requiere alto consumo cal\u00f3rico y \u00e9nfasis en carbohidratos complejos, verificando que el plan incluya timing de nutrientes pre y post-entrenamiento"
   },
   {
-    "task": "Crea un objeto JSON que represente una pol\u00edtica de IAM que permita acciones s3:GetObject y s3:PutObject en un bucket espec\u00edfico llamado 'mi-bucket-datos'",
-    "format": "json"
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "82 kg",
+      "goal": "Ganancia de masa muscular y fuerza",
+      "restrictions": "Vegetariano (sin carne, pollo ni pescado)"
+    },
+    "solution_criteria": [
+      "El plan incluye fuentes proteicas vegetarianas variadas (legumbres, tofu, tempeh, seitan, frutos secos, l\u00e1cteos y huevos seg\u00fan aplique)",
+      "Proporciona un balance macronutricional adecuado para ganancia muscular (prote\u00edna suficiente para levantador de pesas, carbohidratos y grasas saludables)",
+      "El plan es conciso y compacto, presentado de forma clara y f\u00e1cil de implementar"
+    ],
+    "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+    "scenario": "Prueba con un atleta de fuerza (levantador de pesas) con restricciones diet\u00e9ticas (vegetariano) para evaluar si el plan propone fuentes proteicas alternativas adecuadas y balanceo macronutricional sin productos animales"
   },
   {
-    "task": "Escribe una expresi\u00f3n regular que valide el formato de un ID de instancia EC2 (por ejemplo: i-1234567890abcdef0)",
-    "format": "regex"
+    "prompt_inputs": {
+      "height": "178 cm",
+      "weight": "72 kg",
+      "goal": "Mejorar rendimiento y resistencia en entrenamientos de f\u00fatbol",
+      "restrictions": "Presupuesto limitado, sin alergias alimentarias"
+    },
+    "solution_criteria": [
+      "El plan incluye alimentos comunes y asequibles disponibles en mercados locales",
+      "Proporciona distribuci\u00f3n de macronutrientes apropiada para un futbolista",
+      "Es conciso y pr\u00e1ctico, presentado en formato compacto f\u00e1cil de seguir",
+      "Considera el presupuesto limitado sin comprometer necesidades nutricionales b\u00e1sicas"
+    ],
+    "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
+    "scenario": "Prueba con un atleta joven de deporte de equipo (futbolista) con presupuesto limitado, comprobando que el plan sea pr\u00e1ctico, asequible y utilice alimentos comunes accesibles en el mercado local"
   }
 ]
