@@ -3,47 +3,46 @@
     "prompt_inputs": {
       "height": "178 cm",
       "weight": "68 kg",
-      "goal": "Preparaci\u00f3n para marat\u00f3n con \u00e9nfasis en resistencia y rendimiento",
+      "goal": "Preparaci\u00f3n para marat\u00f3n con \u00e9nfasis en resistencia y energ\u00eda sostenida para entrenamientos de larga duraci\u00f3n",
       "restrictions": "Sin restricciones diet\u00e9ticas"
     },
     "solution_criteria": [
-      "El plan incluye distribuci\u00f3n de carbohidratos complejos como base principal de la alimentaci\u00f3n diaria",
-      "Especifica timing de nutrientes con recomendaciones claras para comidas/snacks pre y post-entrenamiento",
-      "Proporciona estimaci\u00f3n de calor\u00edas diarias acorde al perfil del atleta de resistencia",
-      "Formato conciso y f\u00e1cil de implementar en la pr\u00e1ctica diaria"
+      "El plan incluye carbohidratos complejos como fuente principal de energ\u00eda para entrenamientos de larga duraci\u00f3n",
+      "El plan es conciso y compacto, presentado de forma clara y f\u00e1cil de seguir",
+      "Proporciona recomendaciones espec\u00edficas de macronutrientes adaptadas al perfil del atleta de resistencia"
     ],
     "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
-    "scenario": "Prueba con un atleta de resistencia (corredor de marat\u00f3n) que requiere alto consumo cal\u00f3rico y \u00e9nfasis en carbohidratos complejos, verificando que el plan incluya timing de nutrientes pre y post-entrenamiento"
+    "scenario": "Prueba con un atleta de resistencia (corredor de marat\u00f3n) que requiere un plan de alimentaci\u00f3n enfocado en carbohidratos complejos y energ\u00eda sostenida para entrenamientos de larga duraci\u00f3n"
   },
   {
     "prompt_inputs": {
       "height": "178 cm",
       "weight": "82 kg",
-      "goal": "Ganancia de masa muscular y fuerza",
-      "restrictions": "Vegetariano (sin carne, pollo ni pescado)"
+      "goal": "Aumentar masa muscular magra y fuerza en levantamiento de pesas",
+      "restrictions": "Vegetariano, sin consumo de carne ni pescado"
     },
     "solution_criteria": [
-      "El plan incluye fuentes proteicas vegetarianas variadas (legumbres, tofu, tempeh, seitan, frutos secos, l\u00e1cteos y huevos seg\u00fan aplique)",
-      "Proporciona un balance macronutricional adecuado para ganancia muscular (prote\u00edna suficiente para levantador de pesas, carbohidratos y grasas saludables)",
-      "El plan es conciso y compacto, presentado de forma clara y f\u00e1cil de implementar"
+      "El plan debe ser compacto (m\u00e1ximo 5-7 comidas/snacks diarios)",
+      "Debe incluir fuentes de prote\u00edna plant-based variadas (legumbres, tofu, frutos secos, cereales)",
+      "Debe proporcionar suficiente ingesta cal\u00f3rica y proteica para el objetivo de ganancia muscular",
+      "Debe ser pr\u00e1ctico y f\u00e1cil de seguir para un atleta ocupado"
     ],
     "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
-    "scenario": "Prueba con un atleta de fuerza (levantador de pesas) con restricciones diet\u00e9ticas (vegetariano) para evaluar si el plan propone fuentes proteicas alternativas adecuadas y balanceo macronutricional sin productos animales"
+    "scenario": "Prueba con un atleta de fuerza (levantador de pesas) con restricciones diet\u00e9ticas espec\u00edficas (vegetariano) que necesita un plan compacto rico en prote\u00edna plant-based"
   },
   {
     "prompt_inputs": {
-      "height": "178 cm",
-      "weight": "72 kg",
-      "goal": "Mejorar rendimiento y resistencia en entrenamientos de f\u00fatbol",
-      "restrictions": "Presupuesto limitado, sin alergias alimentarias"
+      "height": "178",
+      "weight": "75",
+      "goal": "Mejorar rendimiento explosivo y resistencia en futbol con presupuesto limitado",
+      "restrictions": "Sin alergias, presupuesto m\u00e1ximo de $200 USD mensuales"
     },
     "solution_criteria": [
-      "El plan incluye alimentos comunes y asequibles disponibles en mercados locales",
-      "Proporciona distribuci\u00f3n de macronutrientes apropiada para un futbolista",
-      "Es conciso y pr\u00e1ctico, presentado en formato compacto f\u00e1cil de seguir",
-      "Considera el presupuesto limitado sin comprometer necesidades nutricionales b\u00e1sicas"
+      "El plan incluye distribuci\u00f3n balanceada de macronutrientes (prote\u00ednas, carbohidratos, grasas) adaptada a deportes intermitentes",
+      "Contiene alimentos econ\u00f3micos y accesibles que cubran micronutrientes clave (hierro, potasio, magnesio) para rendimiento explosivo",
+      "Formato conciso y pr\u00e1ctico (m\u00e1ximo 5-7 comidas diarias) f\u00e1cil de implementar"
     ],
     "task_description": "Escribe un plan conciso y compacto de alimentaci\u00f3n para un simple atleta.",
-    "scenario": "Prueba con un atleta joven de deporte de equipo (futbolista) con presupuesto limitado, comprobando que el plan sea pr\u00e1ctico, asequible y utilice alimentos comunes accesibles en el mercado local"
+    "scenario": "Prueba con un atleta de deporte intermitente (futbolista) con un presupuesto limitado que requiere un plan pr\u00e1ctico, econ\u00f3mico y balanceado en micronutrientes para rendimiento explosivo"
   }
 ]
